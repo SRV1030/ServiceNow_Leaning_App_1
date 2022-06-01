@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="requester" label="Requester" language="en" table="x_827523_wish_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>requester</element>
+            <help/>
+            <hint/>
+            <label>Requester</label>
+            <language>en</language>
+            <name>x_827523_wish_wish_item</name>
+            <plural>Requesters</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 04:39:44</sys_created_on>
+            <sys_id>451ce6f987330110bfeb1f073cbb359a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Requester</sys_name>
+            <sys_package display_value="Wish" source="x_827523_wish">d1bb66b987330110bfeb1f073cbb3529</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish">d1bb66b987330110bfeb1f073cbb3529</sys_scope>
+            <sys_update_name>sys_documentation_x_827523_wish_wish_item_requester_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 04:39:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
